@@ -2,7 +2,7 @@
 
 Console.WriteLine("Hello, World!");
 
-string phrase = "O Rato Roeu a Roupa do Rei de Roma";
+string phrase = Console.ReadLine()!;
 
 string modifiedPhrase = SubstituirLetra(phrase, "A");
 
